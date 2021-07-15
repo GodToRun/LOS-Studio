@@ -1,0 +1,11 @@
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\bin\Release\LOSStudio.exe.config
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\bin\Release\LOSStudio.exe
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\bin\Release\LOSStudio.pdb
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.csprojAssemblyReference.cache
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.Form1.resources
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.Front.resources
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.Properties.Resources.resources
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.csproj.GenerateResource.cache
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.csproj.CoreCompileInputs.cache
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.exe
+C:\Users\wjmh9\source\repos\LOSStudio\LOSStudio\obj\Release\LOSStudio.pdb
